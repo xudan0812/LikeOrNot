@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/activity_guest.xml",
+        "source": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/src/main/res/layout/activity_guest.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/Users/xiaotu/.android/build-cache/1efa97f48374803e4d6cb8d9e8d9adbe7a43b8f9/output/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/Users/xiaotu/.android/build-cache/e7f01f78c22201e06e43099b515b18a11c4f27d1/output/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/xiaotu/.android/build-cache/e7f01f78c22201e06e43099b515b18a11c4f27d1/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/Users/xiaotu/.android/build-cache/1efa97f48374803e4d6cb8d9e8d9adbe7a43b8f9/output/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/Users/xiaotu/.android/build-cache/1efa97f48374803e4d6cb8d9e8d9adbe7a43b8f9/output/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/Users/xiaotu/.android/build-cache/e7f01f78c22201e06e43099b515b18a11c4f27d1/output/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/Users/xiaotu/.android/build-cache/e7f01f78c22201e06e43099b515b18a11c4f27d1/output/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/activity_play_again.xml",
+        "source": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/src/main/res/layout/activity_play_again.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/activity_guest_game.xml",
+        "source": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/src/main/res/layout/activity_guest_game.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/Users/xiaotu/.android/build-cache/1efa97f48374803e4d6cb8d9e8d9adbe7a43b8f9/output/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/xiaotu/.android/build-cache/61921b65a99b3d30f63b4d9828500a146fe720bc/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/Users/xiaotu/.android/build-cache/1efa97f48374803e4d6cb8d9e8d9adbe7a43b8f9/output/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/xiaotu/.android/build-cache/61921b65a99b3d30f63b4d9828500a146fe720bc/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/Users/xiaotu/.android/build-cache/1efa97f48374803e4d6cb8d9e8d9adbe7a43b8f9/output/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/xiaotu/.android/build-cache/61921b65a99b3d30f63b4d9828500a146fe720bc/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/xiaotu/.android/build-cache/61921b65a99b3d30f63b4d9828500a146fe720bc/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/Users/xiaotu/.android/build-cache/e7f01f78c22201e06e43099b515b18a11c4f27d1/output/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/xiaotu/.android/build-cache/e7f01f78c22201e06e43099b515b18a11c4f27d1/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/activity_user_or_guest.xml",
+        "source": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/src/main/res/layout/activity_user_or_guest.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/activity_invite_friend.xml",
+        "source": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/src/main/res/layout/activity_invite_friend.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/xiaotu/.android/build-cache/5751d65e89bb07aa804831d2736f8918b463111a/output/res/layout/abc_screen_toolbar.xml"
+    }
+]

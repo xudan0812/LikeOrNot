@@ -1,0 +1,4 @@
+#Fri Jan 19 18:27:53 CST 2018
+base.0=/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

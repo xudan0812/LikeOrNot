@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    build-mode="FULL"
+    density="560dpi"
+    format="10"
+    plugin-version="2.3.1"
+    timestamp="1516408021304"
+    token="-8693087974362110099"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2953" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1245" />
+    <task
+        name="verifier"
+        duration="389" />
+
+    <artifact
+        location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/outputs/apk/LikeOrNotProject-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1516408021304"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/outputs/apk/LikeOrNotProject-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>

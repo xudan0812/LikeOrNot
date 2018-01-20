@@ -1,0 +1,7 @@
+#Fri Jan 19 18:27:53 CST 2018
+base.0=/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_da0624c8c9e6221396ef3d2af9b42537b2a61083
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e05754ddc0d74d7b572e80bbf492ac4fe9be09c5/classes.dex
+base.1=/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e05754ddc0d74d7b572e80bbf492ac4fe9be09c5
+file.0=/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_da0624c8c9e6221396ef3d2af9b42537b2a61083/classes.dex

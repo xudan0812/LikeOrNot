@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/xiaotu/.android/build-cache/1efa97f48374803e4d6cb8d9e8d9adbe7a43b8f9/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/xiaotu/AndroidStudioProjects/LikeOrNot/LikeOrNotProject/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/xiaotu/.android/build-cache/1efa97f48374803e4d6cb8d9e8d9adbe7a43b8f9/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]
